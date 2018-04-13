@@ -1,0 +1,10 @@
+{
+    "name": "my_app",
+    "description": "",
+    "version": "0.0.1",
+    "dependencies": {
+        "npm": "^5.8.0",
+        "pillars": "*"
+    },
+    "main": "./app.js"
+}
